@@ -1,23 +1,30 @@
 Variables
 
-Variables are names that you give to a piece of information in your program. You use this name (the variable) to assign a value (like numbers), store information (like words, other names, phrases, or sentences, as so on), assign a set of instructions, or name a new variable (called objects).  
+Variables are names that you give to a piece of information in your program. You use this name (the variable) to 
+assign a value (like numbers), store information (like words, other names, phrases, or sentences, as so on), assign 
+a set of instructions, or name a new variable (called objects).  
 
 
 Strings
 
-Strings are a type of variable where you assign or store information using letters, words, phrases, sentences, or a combination of some or all of these.
+Strings are a type of variable where you assign or store information using letters, words, phrases, sentences, or a 
+combination of some or all of these.
 
 
 Functions (arguments, return)
 
-Functions are sets of instructions that you give the computer to perform a specific task.  You use a name to “call” your function so you can use your function later while programming.  It makes your programming more efficient and streamlined by using functions by making it easier to read.  
+Functions are sets of instructions that you give the computer to perform a specific task.  You use a name to “call” 
+your function so you can use your function later while programming.  It makes your programming more efficient and 
+streamlined by using functions by making it easier to read.  
 
 
 if statements
 
-“if” statements are a set of instructions that you assign a “condition” before it will execute the instructions you have written in it.  If the condition is not met, it will not execute the instructions you programmed it to do and it will skip it.
+“if” statements are a set of instructions that you assign a “condition” before it will execute the instructions you 
+have written in it.  If the condition is not met, it will not execute the instructions you programmed it to do and it will skip it.
 
 
 Boolean values (true, false)
 
-Boolean values are a type of information that gives out only 2 values – true or false.  You can assign a Boolean value to a variable or a function.  
+Boolean values are a type of information that gives out only 2 values – true or false.  You can assign a Boolean value 
+to a variable or a function.  
